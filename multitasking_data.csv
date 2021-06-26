@@ -1,0 +1,5 @@
+stim_type_shapeblock,AC_shape,RT_shape,stim_type_fillingblock,AC_filling,RT_filling,task_mixedblock,stim_type_mixedblock,AC_mixed,RT_mixed
+rect_3,1,1261,rect_3,1,1625,filling,rect_3,1,1833
+diamond_2,1,1034,diamond_2,1,776,shape,diamond_2,1,1371
+rect_2,0,961,rect_2,1,764,shape,rect_2,1,1171
+diamond_3,1,920,diamond_3,1,1752,filling,diamond_3,1,942
